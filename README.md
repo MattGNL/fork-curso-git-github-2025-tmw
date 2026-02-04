@@ -14,7 +14,7 @@ Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
 
 Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
-VUMBORA!
+VUMBORA! COÉ!
 
 ## Fluxo de trabalho Git local
 
